@@ -11,12 +11,12 @@
   },
   {
     "name": "🔙 rollback",
-    "color": "#170D22",
+    "color": "#d876e3",
     "description": "롤백"
   },
   {
     "name": "📃 docs",
-    "color": "#5564BA",
+    "color": "#F6AFB2",
     "description": "문서화"
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "name": "🔥 hotfix",
-    "color": "#3578C4",
+    "color": "#BEE2E1",
     "description": "핫픽스"
   },
   {
