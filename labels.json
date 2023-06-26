@@ -1,0 +1,37 @@
+[
+  {
+    "name": "✨ feature",
+    "color": "#3B78CB",
+    "description": "기능 개발"
+  },
+  {
+    "name": "🐞 bug fix",
+    "color": "#d73a4a",
+    "description": "버그 수정"
+  },
+  {
+    "name": "🔙 rollback",
+    "color": "#170D22",
+    "description": "롤백"
+  },
+  {
+    "name": "📃 docs",
+    "color": "#5564BA",
+    "description": "문서화"
+  },
+  {
+    "name": "🔨 refactor",
+    "color": "#CFF03A",
+    "description": "리팩토링"
+  },
+  {
+    "name": "🔥 hotfix",
+    "color": "#3578C4",
+    "description": "핫픽스"
+  },
+  {
+    "name": "👀 no review",
+    "color": "#D0C090",
+    "description": "리뷰가 필요하지 않아요"
+  }
+]
